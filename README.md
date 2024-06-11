@@ -38,4 +38,10 @@ In this project, we use the following two models with the specified accuracy:
 - `Linear regression`: *0.84*
 - `RandomForestRegressor`: *0.87*
   
-we have used **RandomForestRegressor** for prediction because is very accurate
+we have used **RandomForestRegressor** for prediction because is very accurate.
+
+
+
+**Dataset Reference :** ![Mankan.me](https://www.mankan.me/)
+> [!TIP]
+> Thanks to the Mankan site
